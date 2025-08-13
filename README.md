@@ -1,5 +1,4 @@
 # jcgc.tech finance — UI Pack 1
-
 Este pacote aplica TailwindCSS + Dark Mode automático nas principais páginas do sistema.
 
 ## Páginas atualizadas
@@ -14,10 +13,10 @@ Este pacote aplica TailwindCSS + Dark Mode automático nas principais páginas d
 - TailwindCSS via CDN
 
 ## Como usar
-1. Substitua as páginas pelo conteúdo atualizado deste pacote
-2. Acesse as URLs correspondentes:
-   - `/login.php`
-   - `/importar.php`
-   - `/historico_importacoes.php`
-   - `/visualizar_transacoes.php`
-3. Teste em modo claro e escuro para validar o Dark Mode
+1. Substitua as páginas pelo conteúdo atualizado deste pacote.
+2. Acesse:
+   - /login.php
+   - /importar.php
+   - /historico_importacoes.php
+   - /visualizar_transacoes.php
+3. Teste em modo claro e escuro para validar o Dark Mode.
